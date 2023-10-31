@@ -1,1 +1,1 @@
-print('Hello from Nikola(0123456789)!')
+print('Hello from Nikola!')
